@@ -36,7 +36,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
 						<!--><server>cloudHubdetails</server>-->
-						<username>damon_salvatore</username>
+						<username>damon salvatore</username>
 						<password>Sandeep@98</password>
 						<applicationName>project-usecase</applicationName>
 						<environment>Sandbox</environment>
